@@ -49,12 +49,22 @@ body {
     font-size: 25px;
 }
 
+.second h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
 .second p {
     font-size: 20px;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
     color: #b3b3b3fa;
+}
+
+.donate-plan h1 {
+    font-size: 50px;
+    font-weight: bold;
 }
 
 .donate-iteam {
@@ -213,7 +223,7 @@ hr {
 
 .update h1 {
     text-align: center;
-    font-size: 40px;
+    font-size: 35px;
     margin-bottom: 10px;
 }
 
